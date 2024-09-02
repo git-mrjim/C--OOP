@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ibayj\Development\C++ OOP\C++ OOP\main.cpp(53): warning C4715: 'Student::Regularity': not all control paths return a value
+  C++ OOP.vcxproj -> C:\Users\ibayj\Development\C++ OOP\Debug\C++ OOP.exe
